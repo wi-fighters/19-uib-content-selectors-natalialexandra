@@ -11,3 +11,15 @@ body {
     text-align: center;
     font-size: 50px;    
 }
+
+.primary-box {
+    background-color: #222;
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+.secondary-box {
+    background-color: #eee;
+    color: #000;
+    margin-bottom: 2rem;
+}
